@@ -3,43 +3,43 @@ const products = [
       id: 1,
       name: "Producto 1",
       description: "Descripción del producto 1.",
-      price: 300,
-      image: "product1.jpg"
+      price: 279866,
+      image: "imagenes/HP.jpeg"
   },
   {
     id: 2,
     name: "Producto 2",
     description: "Descripción del producto 2.",
-    price: 300,
-    image: "product2.jpg"
+    price: 352400,
+    image: "imagenes/asus X515.jpg"
 },
 {
   id: 3,
   name: "Producto 3",
   description: "Descripción del producto 3.",
-  price: 300,
-  image: "product3.jpg"
+  price: 248999,
+  image: "imagenes/ASUS X515EA.jpg"
 },
 {
   id: 4,
   name: "Producto 4",
   description: "Descripción del producto 4.",
-  price: 300,
-  image: "product4.jpg"
+  price: 322000,
+  image: "imagenes/Lenovo ideapad3.jpg"
 },
 {
   id: 5,
   name: "Producto 5",
   description: "Descripción del producto 5.",
-  price: 300,
-  image: "product5.jpg"
+  price: 270000,
+  image: "imagenes/Lenovo Thinkbook.jpg"
 },
 {
   id: 6,
   name: "Producto 6",
   description: "Descripción del producto 6.",
-  price: 300,
-  image: "product6.jpg"
+  price: 360000,
+  image: "imagenes/Lenovo V15.jpg"
 },
 ];
 
